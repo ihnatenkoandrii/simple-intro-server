@@ -1,0 +1,9 @@
+{
+  "name": "redirect-server",
+  "version": "1.0.0",
+  "description": "A simple server that redirects all visitors to a Google Doc.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
